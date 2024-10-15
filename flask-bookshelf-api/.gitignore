@@ -1,0 +1,38 @@
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.env/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# Logs and other output
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Docker files
+*.docker
+.dockerignore
+
+# Kubernetes files
+*.yaml~
+
+# MacOS files
+.DS_Store
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# VS Code directory
+.vscode/
+
